@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Hello... I'm Gulsum Satic👋 </h2>
-<h2> Excited, passionate, avid learner, and a developer residing in Turkiye </h2>
+<h2>Hello... I'm Gulsum Satic👋 </h2>
+  <h2>Excited, passionate, hardworking developer living in Turkey. </h2>
+
+    <!-- CDN linki burada olmali -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
 
@@ -17,8 +20,13 @@
 📫 You can reach me from any of the accounts below.
 
 ⚡ Unlocking Creativity, One Line of Code at a Time</h3>
-<p></p>
 
+<a href="https://www.linkedin.com/in/gulsumstc/">
+    <i class="fa-brands fa-linkedin" style="color: #b21f1f;""> </i> </a>
+<a href="gulsum.satic@gmail.com">
+    <i class="fa-solid fa-envelope" style="color: #b21f1f;"> </i></a>
+
+<p></p>
 
 
 </body>
