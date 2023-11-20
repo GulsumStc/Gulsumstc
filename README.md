@@ -13,7 +13,7 @@
 - 🌱 The next step on learning **Next.js - Tailwind - TypeScript**
 - ⚡ Unlocking Creativity, One Line of Code at a Time
  
-📩: mailto:gulsum.satic@gmail.com
+📩: mailto: gulsum.satic@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
