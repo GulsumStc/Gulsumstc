@@ -15,14 +15,14 @@
      
 🔭  I'm currently working on real-estate project.
 
-📫 You can reach me from any of the accounts below.
-
 ⚡ Unlocking Creativity, One Line of Code at a Time</h3>
 
-<a href="https://www.linkedin.com/in/gulsumstc/">
-    <i class="fa-brands fa-linkedin" style="color: #b21f1f;""> </i> </a>
-<a href="gulsum.satic@gmail.com">
-    <i class="fa-solid fa-envelope" style="color: #b21f1f;"> </i></a>
+
+<br>
+[linkedin]: https://www.linkedin.com/in/gulsumstc
+[medium]: https://medium.com/@gulsum.satic
+[gmail]: mailto:gulsum.satic@gmail.com
+<br />
 
 <p></p>
 
