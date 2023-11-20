@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<h1 align="center">Hi 👋, I'm Gulsum</h1>
+<h2 align="center">Hi 👋, I'm Gulsum</h2>
 <h3 align="center">Excited, passionate, hardworking developer living in Turkey.</h3>
 
 </head>
@@ -11,11 +11,10 @@
 
 - 🔭 I’m currently working on **Real-Estate Project**
 - 🌱 The next step on learning **Next.js - Tailwind - TypeScript**
-- - ⚡ Unlocking Creativity, One Line of Code at a Time
+- ⚡ Unlocking Creativity, One Line of Code at a Time
  
-  - <br>
 📩: mailto:gulsum.satic@gmail.com
-<br />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
