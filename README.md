@@ -9,8 +9,8 @@
 <body>
 
 
-- 🔭 I’m currently working on **Real-Estate Project**
-- 🌱 The next step on learning **Next.js - Tailwind - TypeScript**
+-  I’m currently working on **Real-Estate Project**
+-  The next step on learning **Next.js - Tailwind - TypeScript**
 - ⚡ Unlocking Creativity, One Line of Code at a Time
  
 mailto: gulsum.satic@gmail.com
