@@ -1,4 +1,4 @@
-##   GÜLSÜM SATIÇ  
+##  Hii I'm GÜLSÜM
   
 
 <a href="https://linkedin.com/in/gulsumstc" target="_blank">
@@ -11,9 +11,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
  I'm a passionate Full Stack Java Developer with experience in both backend and frontend development. I've completed intensive training and worked on exciting projects using Java, Spring Boot, JavaScript, and ReactJS. Collaboration and communication are my strengths, and I'm always seeking opportunities to grow my skills. With a background in Environmental Engineering and certifications like Oracle Certified Associate for Java SE 8 Programmer, I bring a strong skill set to the table. I'm eager to contribute to innovative projects in the tech industry.  
   
@@ -21,20 +18,11 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
+## <div>
 - 🔬I'm currently working in an e-commerce project using Java and Spring framework.  
-  
-
 - 📕 I’m currently learning Microservice architecture  
+<div/>
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -64,25 +52,7 @@
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
+<br/>   
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=GulsumStc&&style=flat-square)  
   
@@ -90,7 +60,4 @@
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
