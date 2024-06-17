@@ -18,7 +18,7 @@
 
 ## <div>
 - 🔬I'm currently working in an e-commerce project using Java and Spring framework.  
-- 📕 I’m currently learning Microservice architecture  
+- 📕 I’m currently learning Nodejs-Nestjs
 <div/>
 
 <br/>  
