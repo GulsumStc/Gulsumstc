@@ -9,13 +9,13 @@
 </a>  
   
 ### Glad to see you here!  
- I'm a passionate Full Stack Java Developer with experience in both backend and frontend development. I've completed intensive training and worked on exciting projects using Java, Spring Boot, JavaScript, and ReactJS. Collaboration and communication are my strengths, and I'm always seeking opportunities to grow my skills. With a background in Environmental Engineering and certifications like Oracle Certified Associate for Java SE 8 Programmer, I bring a strong skill set to the table. I'm eager to contribute to innovative projects in the tech industry.  
+ I'm a passionate Full Stack Web Developer with experience in both backend and frontend development. I've completed intensive training and worked on exciting projects using Java, Spring Boot, JavaScript, and ReactJS. Collaboration and communication are my strengths, and I'm always seeking opportunities to grow my skills. With a background in Environmental Engineering and certifications like Oracle Certified Associate for Java SE 8 Programmer, I bring a strong skill set to the table. I'm eager to contribute to innovative projects in the tech industry.  
   
 <br/>  
 
 ## <div>
 - 🔬I'm currently working in an e-commerce project using Java and Spring framework.  
-- 📕 I’m currently learning Nodejs-Nestjs
+- 📕 I’m learning Nodejs-Nestjs
 <div/>
 
 <br/>  
