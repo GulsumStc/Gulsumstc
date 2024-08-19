@@ -47,8 +47,9 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="50" /></a>  
-<a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client" target="_blank"><img style="margin: 10px" src="https://github.com/rangav/thunder-client-support/raw/master/images/logo.svg" alt="Thunder Client" height="50" /></a>  
-<a href="https://swagger.io/specification/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354380/openapi.svg" alt="OpenAPI" height="50" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/43147572/120218722-62b0d980-c23a-11eb-8827-7f2702e6801b.png" alt="Thunder Client" height="50" /></a>  
+<a href="https://swagger.io/specification/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-t8yypd30.png" alt="OpenAPI" height="50" /></a>
+
 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
