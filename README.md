@@ -11,13 +11,10 @@
 ### Glad to see you here!  
  I'm a passionate Full Stack Web Developer with experience in both backend and frontend development. I've completed intensive training and worked on exciting projects using Java, Spring Boot, JavaScript, and ReactJS. Collaboration and communication are my strengths, and I'm always seeking opportunities to grow my skills. With a background in Environmental Engineering and certifications like Oracle Certified Associate for Java SE 8 Programmer, I bring a strong skill set to the table. I'm eager to contribute to innovative projects in the tech industry.  
  
-📖 🔬 💻 I'm also delving into Node.js and NestJS Working with NestJS has allowed me to deepen my expertise in backend development while complementing my experience with Java and Spring Boot in building robust, scalable applications.
-  
 <br/>  
 
 ## <div>
-- 🔬 I'm currently working in an e-commerce project using Java and Spring framework.  
-- 📕 I develop Node.js/NestJS applications.
+I am deepening my expertise in backend development by learning NestJS and actively developing projects with Node.js and NestJS, enhancing my ability to build robust and scalable applications alongside my experience with Java and Spring Boot
 <div/>
 
 <br/>  
